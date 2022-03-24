@@ -1,3 +1,3 @@
 # Green kiosk
 
-this is an online grocery store
+This is an online grocery store
